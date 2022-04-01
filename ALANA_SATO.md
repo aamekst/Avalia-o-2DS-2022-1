@@ -38,7 +38,10 @@ Requisitos para a avaliação:
 ## Defina o que é uma View  
  - A view é utilizada para visualizar alguma aplicação ou dado, é uma janela. 
 
-4. Defina o que é um Event Listener
+4. Defina o que é um Event Listener  
+5. ## Defina o que é um Event Listener    
+- O event listener, atribui uma função a um evento de alvo único, ou seja, o método event atribui um evento, como por exemplo clicar em um botão. Tecnicamente ele ouvirá o usuário fazendo tal ação e irá fazer com que o evento aconteça. 
+
 
 5. Defina o que é o Graddle  
 ## Defina o que é o Gradle  
