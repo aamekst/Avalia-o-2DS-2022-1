@@ -34,7 +34,9 @@ Requisitos para a avaliação:
     VIEW OPTIONS     
 - Depois é só format a o tamanho e margem da página. Mas é preciso adicionar o constraints para adicionar funcionalidades para interface, como botão, imagem ou text. 
 
-3. Defina o que é uma View
+3. Defina o que é uma View  
+## Defina o que é uma View  
+ - A view é utilizada para visualizar alguma aplicação ou dado, é uma janela. 
 
 4. Defina o que é um Event Listener
 
