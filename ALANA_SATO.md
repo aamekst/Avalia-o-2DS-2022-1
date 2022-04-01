@@ -15,14 +15,14 @@ Requisitos para a avaliação:
 **Java API framework**  
 **System Apps**  
 
-| Camadas      |  
+| Camadas      |    
 ------------
-| System Apps |
-| left foo      | 
-| Java API framework     | 
-| Native c/c++ e Android Runtime  | 
-| Hardware Abstratction layer    | 
-| Linux kernel      | 
+| System Apps |  
+| left foo      |   
+| Java API framework     |   
+| Native c/c++ e Android Runtime  |   
+| Hardware Abstratction layer    |   
+| Linux kernel      |   
 
 2. Descreva como desenvolvemos interfaces em aplicações Android nativas em Kotlin
 ## Descreva como desenvolvemos interfaces em aplicações Android nativas em Kotlin  
@@ -40,7 +40,10 @@ Requisitos para a avaliação:
 
 4. Defina o que é um Event Listener
 
-5. Defina o que é o Graddle
+5. Defina o que é o Graddle  
+## Defina o que é o Gradle  
+- É um sistema de automatizaçã o de build/compilação que executa scripts de compilação de diversas linguagens, fazendo conversões para linguagem JAVA. 
+
 
 6. Escreva o que é o SDK android  
 
