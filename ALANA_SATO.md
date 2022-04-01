@@ -53,6 +53,12 @@ Requisitos para a avaliação:
 - SDK (software development kit) tem como objetivo fornece aplicações para desenvolver android, as ferramentas oferecidas são bibliotecas, depurador, emulador para simula como ficaria no celular, código fonte e documentação. 
 
 7. Escreva o que sãos API level, e dentro das configs de build o que é Target API e minimal API level
+## Escreva o que sãos API level, e dentro das configs de build o que é Target API e minimal API level.  
+
+- API level, é o nível que API consta, o nível é indicado por números, na qual, é adicionado mais 1 para cada versão nova do android, mas o nível da API, não pode ser igual a versão do android.   
+
+    **Minimal API level**, é o nível mínimo API, ou seja, ele avisa o nível mínimo que o aplicativo pode rodar.     
+    **Target API**, é o level maximo da API, até que versão o android roda no dispositivo.   
 
 
 8. O que é o processo de Build  
