@@ -1,4 +1,4 @@
-# Avaliação 2DS-2022-1
+# Avaliação TEORICA MOBILE
 Requisitos para a avaliação:
 
 #1. Criar um repositório no GitHub chamado Avaliação Teórica Mobile
