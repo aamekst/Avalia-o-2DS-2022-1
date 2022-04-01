@@ -42,7 +42,9 @@ Requisitos para a avaliação:
 
 5. Defina o que é o Graddle
 
-6. Escreva o que é o SDK android
+6. Escreva o que é o SDK android  
+
+- SDK (software development kit) tem como objetivo fornece aplicações para desenvolver android, as ferramentas oferecidas são bibliotecas, depurador, emulador para simula como ficaria no celular, código fonte e documentação. 
 
 7. Escreva o que sãos API level, e dentro das configs de build o que é Target API e minimal API level
 
