@@ -6,6 +6,23 @@ Requisitos para a avaliação:
 #Criar um arquivo Markdown formatado e com as respostas para os seguintes questionamentos:
 
 1. Descreva a arquitetura do sistema operacional Android
+ ## Descreva a arquitetura do sistema operacional Android
+
+- A arquitetura do android está dividida em 7 camadas, começando com a camada base, que é considera a camada mais profunda, até a camada mais superficial.     
+**Linux kernel**, cuida da parte do drivers.   
+**Hardware Abstratction layer**, fica com a parte da câmera, áudio, sensores e etc.  
+**Native c/c++ e Android Runtime**, armazenam as bibliotecas utilizadas.   
+**Java API framework**  
+**System Apps**  
+
+| Camadas      |  
+------------
+| System Apps |
+| left foo      | 
+| Java API framework     | 
+| Native c/c++ e Android Runtime  | 
+| Hardware Abstratction layer    | 
+| Linux kernel      | 
 
 2. Descreva como desenvolvemos interfaces em aplicações Android nativas em Kotlin
 
