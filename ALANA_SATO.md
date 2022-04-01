@@ -54,7 +54,10 @@ Requisitos para a avaliação:
 
 7. Escreva o que sãos API level, e dentro das configs de build o que é Target API e minimal API level
 
-8. O que é o processo de Build
+
+8. O que é o processo de Build  
+## O que é o processo de Build    
+- O processo build, compila o arquivo e declara se tem erro de sintaxe ou se foram integrados de forma certa, é um procedimento que pega seu código fonte e verifica, porém, é um processo manual. 
 
 9. Descreva como podemos testar aplicações android em nossos próprios celulares.
 
