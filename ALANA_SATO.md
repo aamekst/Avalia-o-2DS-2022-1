@@ -25,6 +25,14 @@ Requisitos para a avaliação:
 | Linux kernel      | 
 
 2. Descreva como desenvolvemos interfaces em aplicações Android nativas em Kotlin
+## Descreva como desenvolvemos interfaces em aplicações Android nativas em Kotlin  
+
+- De primeiro, precisamos usar o widgets e o layouts que são oferecidos pelo android studio. É necessário desenvolver a interface na aba activy_main.xml, dentro dela escolha a guia design, que ajuda a visualizar melhor a IU.     
+
+    SELECT    
+    BLUEPRINT     
+    VIEW OPTIONS     
+- Depois é só format a o tamanho e margem da página. Mas é preciso adicionar o constraints para adicionar funcionalidades para interface, como botão, imagem ou text. 
 
 3. Defina o que é uma View
 
