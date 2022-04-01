@@ -65,7 +65,9 @@ Requisitos para a avaliação:
 ## O que é o processo de Build    
 - O processo build, compila o arquivo e declara se tem erro de sintaxe ou se foram integrados de forma certa, é um procedimento que pega seu código fonte e verifica, porém, é um processo manual. 
 
-9. Descreva como podemos testar aplicações android em nossos próprios celulares.
+9. Descreva como podemos testar aplicações android em nossos próprios celulares.  
+## Descreva como podemos testar aplicações android em nossos próprios celulares.    
+- É preciso utilizar cabo USB para executa o aplicativo no celular, para isso é importante ativa a depuração, primeiro abra a guia de configurações, clique em System e vá até about phone, depois vá na guia opção do desenvolvedor e ative a depuração USB, posteriormente é só escolhe o modelo do se celular na barra de ferramentas.
 
 !!!Enviar até as 18h da sexta-feira dia 01/04/2022
 Bônus: Criar um commit para cada resposta
